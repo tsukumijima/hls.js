@@ -16,8 +16,8 @@ coverage/
 .idea/*
 
 # Build
-/lib
-/dist
+# /lib
+# /dist
 /dist.zip
 /cloudflare-pages
 /api-docs

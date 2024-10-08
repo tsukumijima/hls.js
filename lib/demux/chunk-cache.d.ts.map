@@ -1,0 +1,1 @@
+{"version":3,"file":"chunk-cache.d.ts","sourceRoot":"","sources":["../../src/demux/chunk-cache.ts"],"names":[],"mappings":"AAAA,MAAM,CAAC,OAAO,OAAO,UAAU;IAC7B,OAAO,CAAC,MAAM,CAAyB;IAChC,UAAU,EAAE,MAAM,CAAK;IAE9B,IAAI,CAAC,KAAK,EAAE,UAAU;IAKtB,KAAK,IAAI,UAAU;IAcnB,KAAK;CAIN"}

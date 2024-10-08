@@ -1,0 +1,1 @@
+{"version":3,"file":"hdr.d.ts","sourceRoot":"","sources":["../../src/utils/hdr.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,KAAK,UAAU,EAAoB,MAAM,gBAAgB,CAAC;AACnE,OAAO,KAAK,EAAE,oBAAoB,EAAE,MAAM,yBAAyB,CAAC;AAEpE;;GAEG;AACH,wBAAgB,cAAc,YAS7B;AAED;;;;;;;;;;;;;;;;;;GAkBG;AACH,wBAAgB,wBAAwB,CACtC,iBAAiB,EAAE,UAAU,GAAG,SAAS,EACzC,eAAe,EAAE,oBAAoB,GAAG,SAAS;;;EA4BlD"}

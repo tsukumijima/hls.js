@@ -1,0 +1,1 @@
+{"version":3,"file":"vtt.d.ts","sourceRoot":"","sources":["../../src/types/vtt.ts"],"names":[],"mappings":"AAAA,MAAM,MAAM,MAAM,GAAG;IACnB,QAAQ,EAAE,MAAM,CAAC;IACjB,kBAAkB,EAAE,MAAM,CAAC;IAC3B,CAAC,GAAG,EAAE,MAAM,GAAG;QACb,KAAK,EAAE,MAAM,CAAC;QACd,MAAM,EAAE,MAAM,CAAC;QACf,GAAG,EAAE,OAAO,CAAC;KACd,CAAC;CACH,CAAC"}
